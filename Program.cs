@@ -10,9 +10,6 @@ namespace EXRS_1
     {
         static void Main(string[] args)
         {
-                  // Presents first and second EXS //
-            //Oleg Braylovskiy
-            //Hady Abo Jaffar
 
             int num, tmp, Rbinary = 0, binary = 0, Base;
             Console.WriteLine("Enter a decimal number");
